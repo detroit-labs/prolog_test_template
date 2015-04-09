@@ -1,6 +1,6 @@
 # Setup
 
-* ```brew install swi-prolog```
+* ```brew install Caskroom/cask/swi-prolog```
 
 # Run Tests
 
